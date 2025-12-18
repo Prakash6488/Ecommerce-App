@@ -1,2 +1,17 @@
-# ecommerce-App
-A full-stack Ecommerce web application built with React, Node.js, Express, and MongoDB. Features include product management, cart, payment integration, and user authentication.
+# 🛒 Ecommerce App
+
+A full-stack Ecommerce web application.
+
+---
+
+## 📦 Project Structure
+- **Frontend:** React (JavaScript,HTML,CSS)
+- **Backend:** Node.js 
+- **Database:** MySQL
+
+---
+
+## 🚀 Getting Started
+
+```bash
+git clone https://github.com/Prakash6488/ecommerce-app.git
